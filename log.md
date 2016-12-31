@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 31, 2016 
+### Day 0: December 30, 2016 
 ##### Today I am publicly committing to the #100DaysOfCode.
 
 **Today's Progress**: Completed JSON APIs and Ajax on FreeCodeCamp.
@@ -8,6 +8,15 @@
 **Thoughts:** still do not fully understand how it works. There is a lot of room for improvement, I guess. :)
 
 **Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
+
+### Day 1: December 31, 2016 
+
+**Today's Progress**: Worked on my portfolio page.
+
+**Thoughts:** Page does not look great, but this is just a start. Happy New Year!
+
+**Link to work:** [My portfolio on Bootstrap](https://codepen.io/aleksmn/pen/LxPZQe?editors=1000)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
