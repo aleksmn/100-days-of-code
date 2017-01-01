@@ -17,6 +17,12 @@
 
 **Link to work:** [My portfolio on Bootstrap](https://codepen.io/aleksmn/pen/LxPZQe?editors=1000)
 
+### Day 2: January 1, 2017 
+
+**Today's Progress**: Worked with animations for my portfolio page.
+
+**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
