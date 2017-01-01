@@ -19,7 +19,7 @@
 
 ### Day 2: January 1, 2017 
 
-**Today's Progress**: Worked with animations for my portfolio page.
+**Today's Progress**: Playing around with animations for my portfolio page.
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
