@@ -23,6 +23,14 @@
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
+### Day 3: January 2, 2017 
+
+**Today's Progress**: Worked on my portfolio template. Now it has full screen image slider. Take a look: https://aleksmn.github.io/my-portfolio-test/
+
+**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
+
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
