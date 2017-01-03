@@ -29,6 +29,11 @@
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
+### Day 4: January 3, 2017 
+
+**Today's Progress**: Added some important stuff for my portfolio page template: contact form and footer.
+
+**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
 
 <!--
