@@ -36,6 +36,12 @@
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
 
+### Day 5: January 4, 2017 
+
+**Today's Progress**: Worked on some improvements for my portfolio page template )
+
+**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
