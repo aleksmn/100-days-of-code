@@ -44,7 +44,6 @@
 
 
 ### Day 6: January 5, 2017 
-##### Today I am publicly committing to the #100DaysOfCode.
 
 **Today's Progress**: Completed JSON APIs and Ajax challenges on the #FreeCodeCamp.
 
