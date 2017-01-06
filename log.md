@@ -48,3 +48,10 @@
 **Today's Progress**: Completed JSON APIs and Ajax challenges on the #FreeCodeCamp.
 
 **Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
+
+
+### Day 7: January 6, 2017 
+
+**Today's Progress**: Started working on Random Quote Machine on the #FreeCodeCamp.
+
+**Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
