@@ -1,31 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 30, 2016 
-##### Today I am publicly committing to the #100DaysOfCode.
+### Day 8: January 8, 2017 
 
-**Today's Progress**: JSON APIs and Ajax on FreeCodeCamp.
+**Today's Progress**: Worke on my Random Quote Generator. Realized that i need to learn more jQuery.
 
-**Thoughts:** still do not fully understand how it works. There is a lot of room for improvement, I guess. :)
+**Link to work:** [Random Quote Generator on my CodePen](http://codepen.io/aleksmn/full/NdqXEK/)
+
+### Day 7: January 6, 2017 
+
+**Today's Progress**: Started working on Random Quote Machine on the #FreeCodeCamp.
 
 **Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
 
-### Day 1: December 31, 2016 
+### Day 6: January 5, 2017 
 
-**Today's Progress**: Worked on my portfolio page.
+**Today's Progress**: Completed JSON APIs and Ajax challenges on the #FreeCodeCamp.
 
-**Thoughts:** Page does not look great, but this is just a start. Happy New Year!
+**Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
 
-**Link to work:** [My portfolio on Bootstrap](https://codepen.io/aleksmn/pen/LxPZQe?editors=1000)
+### Day 5: January 4, 2017 
 
-### Day 2: January 1, 2017 
-
-**Today's Progress**: Playing around with animations for my portfolio page.
-
-**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
-
-### Day 3: January 2, 2017 
-
-**Today's Progress**: Worked on my portfolio template. Now it has full screen image slider. Take a look: https://aleksmn.github.io/my-portfolio-test/
+**Today's Progress**: Worked on some improvements for my portfolio page template )
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
@@ -35,23 +30,31 @@
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
+### Day 3: January 2, 2017 
 
-### Day 5: January 4, 2017 
-
-**Today's Progress**: Worked on some improvements for my portfolio page template )
+**Today's Progress**: Worked on my portfolio template. Now it has full screen image slider. Take a look: https://aleksmn.github.io/my-portfolio-test/
 
 **Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
+### Day 2: January 1, 2017 
 
-### Day 6: January 5, 2017 
+**Today's Progress**: Playing around with animations for my portfolio page.
 
-**Today's Progress**: Completed JSON APIs and Ajax challenges on the #FreeCodeCamp.
+**Link to work:** [My portfolio on Github](https://aleksmn.github.io/my-portfolio-test/)
 
-**Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
+### Day 1: December 31, 2016 
 
+**Today's Progress**: Worked on my portfolio page.
 
-### Day 7: January 6, 2017 
+**Thoughts:** Page does not look great, but this is just a start. Happy New Year!
 
-**Today's Progress**: Started working on Random Quote Machine on the #FreeCodeCamp.
+**Link to work:** [My portfolio on Bootstrap](https://codepen.io/aleksmn/pen/LxPZQe?editors=1000)
+
+### Day 0: December 30, 2016 
+##### Today I am publicly committing to the #100DaysOfCode.
+
+**Today's Progress**: JSON APIs and Ajax on FreeCodeCamp.
+
+**Thoughts:** still do not fully understand how it works. There is a lot of room for improvement, I guess. :)
 
 **Link to work:** [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
