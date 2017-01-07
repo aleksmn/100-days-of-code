@@ -2,7 +2,7 @@
 
 ### Day 8: January 8, 2017 
 
-**Today's Progress**: Worke on my Random Quote Generator. Realized that i need to learn more jQuery.
+**Today's Progress**: Worked on my Random Quote Generator. Realized that i need to learn more jQuery.
 
 **Link to work:** [Random Quote Generator on my CodePen](http://codepen.io/aleksmn/full/NdqXEK/)
 
