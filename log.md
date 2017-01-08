@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: January 9, 2017 
+
+**Today's Progress**: Learning jQuery on #codeacademy.
+
+**Link to work:** [Codeacademy](https://www.codecademy.com/learn/jquery)
+
 ### Day 8: January 8, 2017 
 
 **Today's Progress**: Worked on my Random Quote Generator. Realized that i need to learn more jQuery.
