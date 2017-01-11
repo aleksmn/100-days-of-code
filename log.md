@@ -3,7 +3,7 @@
 
 ### Day 12: January 11, 2017 
 
-**Today's Progress**: Made Random Quote Generator: Quotes by Russian Writers. It works without API for now.
+**Today's Progress**: Made Random Quote Generator: Russian Writers. It works without API for now. Take a look, you can tweet a quote!
 
 **Link to work:** [Random Quote Generator: Russian Writers](http://codepen.io/aleksmn/full/NdqXEK/)
 
