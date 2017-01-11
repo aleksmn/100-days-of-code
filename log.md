@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 12: January 11, 2017 
+
+**Today's Progress**: Made Random Quote Generator: Quotes by Russian Writers. It works without API for now.
+
+**Link to work:** [Random Quote Generator: Russian Writers](http://codepen.io/aleksmn/full/NdqXEK/)
+
 
 ### Day 11: January 10, 2017 
 
@@ -8,17 +14,20 @@
 
 **Link to work:** [Codeacademy](https://www.codecademy.com/learn/jquery)
 
+
 ### Day 10: January 9, 2017 
 
 **Today's Progress**: Learning jQuery Dynamic HTML on #codeacademy.
 
 **Link to work:** [Codeacademy](https://www.codecademy.com/learn/jquery)
 
+
 ### Day 9: January 8, 2017 
 
 **Today's Progress**: Learning jQuery on #codeacademy.
 
 **Link to work:** [Codeacademy](https://www.codecademy.com/learn/jquery)
+
 
 ### Day 8: January 7, 2017 
 
