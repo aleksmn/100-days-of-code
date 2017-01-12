@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 13: January 12, 2017 
+
+**Today's Progress**: Just made Random Quote Generator with API from forismatic.com. Feels great!
+
+**Link to work:** [Random Quote Generator with API](http://codepen.io/aleksmn/full/wgGreO/)
+
+
 ### Day 12: January 11, 2017 
 
 **Today's Progress**: Made Random Quote Generator: Russian Writers. It works without API for now. Take a look, you can tweet a quote!
