@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 14: January 13, 2017 
+
+**Today's Progress**: Learning Git on Codecademy. Completed 50% of course for now)
+**Link to work:** [Codecademy Achievements](https://www.codecademy.com/users/microJumper20723/achievements)
+
+
 ### Day 13: January 12, 2017 
 
 **Today's Progress**: Just made Random Quote Generator with API from forismatic.com. Feels great!
