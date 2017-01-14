@@ -1,9 +1,16 @@
 # 100 Days Of Code - Log
 ================================
+### Day 14: January 13, 2017 
+
+**Today's Progress**: Completed Git course on Codecademy today.
+
+**Link to work:** [Codecademy Achievements](https://www.codecademy.com/users/microJumper20723/achievements)
+
 
 ### Day 14: January 13, 2017 
 
 **Today's Progress**: Learning Git on Codecademy. Completed 50% of course for now)
+
 **Link to work:** [Codecademy Achievements](https://www.codecademy.com/users/microJumper20723/achievements)
 
 
