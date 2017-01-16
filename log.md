@@ -1,12 +1,18 @@
 # 100 Days Of Code - Log
 ================================
 
-### Day 15: January 13, 2017 
+
+### Day 17: January 14, 2017 
+
+**Today's Progress**: Learning Data Analysis with R. Analisys of Titanic data set.
+
+
+### Day 16: January 13, 2017 
 
 **Today's Progress**: Learning Data Analysis with R. Using this video for reference: https://www.youtube.com/watch?v=32o0DnuRjfg
 
 
-### Day 14: January 13, 2017 
+### Day 15: January 14, 2017 
 
 **Today's Progress**: Completed Git course on Codecademy today.
 
