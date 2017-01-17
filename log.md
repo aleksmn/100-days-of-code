@@ -1,13 +1,17 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 18: January 18, 2017 
 
-### Day 17: January 14, 2017 
+**Today's Progress**: Practiced Data Analysis using RStudio. Very useful experience for me.
+
+
+### Day 17: January 16, 2017 
 
 **Today's Progress**: Learning Data Analysis with R. Analisys of Titanic data set.
 
 
-### Day 16: January 13, 2017 
+### Day 16: January 15, 2017 
 
 **Today's Progress**: Learning Data Analysis with R. Using this video for reference: https://www.youtube.com/watch?v=32o0DnuRjfg
 
