@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 ================================
 
-### Day 18: January 18, 2017 
+### Day 18: January 17, 2017 
 
 **Today's Progress**: Practiced Data Analysis using RStudio. Very useful experience for me.
 
