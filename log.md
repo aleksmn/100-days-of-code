@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 19: January 18, 2017 
+
+**Today's Progress**: Back to my JavaScript projects! Working on Local Weather app.
+
+
 ### Day 18: January 17, 2017 
 
 **Today's Progress**: Practiced Data Analysis using RStudio. Very useful experience for me.
