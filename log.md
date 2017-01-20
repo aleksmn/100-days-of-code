@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 ================================
+
+### Day 21: January 20, 2017 
+
+**Today's Progress**: Working on my Local Weather app!
+
+**Link to work:** [Codepen](http://codepen.io/aleksmn/pen/zNNxKP?editors=0012)
+
 ### Day 20: January 19, 2017 
 
 **Today's Progress**: Working on Local Weather app. Also learning to use console in my work. Very useful tool!
