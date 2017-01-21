@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 22: January 21, 2017 
+
+**Today's Progress**: Just made my Local Weather app!
+
+**Link to work:** [Codepen](http://codepen.io/aleksmn/full/pRebox/)
+
+
 ### Day 21: January 20, 2017 
 
 **Today's Progress**: Working on my Local Weather app!
