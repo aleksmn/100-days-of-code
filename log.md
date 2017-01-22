@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 23: January 22, 2017 
+
+**Today's Progress**: Overall practice with JavaScript today and some minor improvements for my weather app. 
+
+
 ### Day 22: January 21, 2017 
 
 **Today's Progress**: Just made my Local Weather app!
