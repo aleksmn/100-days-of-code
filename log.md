@@ -1,12 +1,17 @@
 # 100 Days Of Code - Log
 ================================
 
-### Day 25: January 22, 2017 
+### Day 26: January 25, 2017 
+
+**Today's Progress**: Work with arrays in JavaScript.
+
+
+### Day 25: January 24, 2017 
 
 **Today's Progress**: Practiced conditionals and looping in JavaScript.
 
 
-### Day 24: January 22, 2017 
+### Day 24: January 23, 2017 
 
 **Today's Progress**: Practiced work with strings in JavaScript today.
 
