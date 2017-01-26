@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 27: January 26, 2017 
+
+**Today's Progress**: Learning JavaScript functions.
+
+
 ### Day 26: January 25, 2017 
 
 **Today's Progress**: Work with arrays in JavaScript.
