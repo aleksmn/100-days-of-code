@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 28: January 27, 2017 
+
+**Today's Progress**: Started to work on my Wikipedia Viewer!
+
 ### Day 27: January 26, 2017 
 
 **Today's Progress**: Learning JavaScript functions.
