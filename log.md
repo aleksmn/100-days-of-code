@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 30: January 29, 2017 
+
+**Today's Progress**: My Wikipedia Viewer works fine, but needs some styling.
+
 ### Day 29: January 28, 2017 
 
 **Today's Progress**: Work on Wikipedia Viewer. Get wiki API going.
