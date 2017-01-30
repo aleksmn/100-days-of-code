@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+
+### Day 31: January 30, 2017 
+
+**Today's Progress**: Learning Visual Basic for Applications.
+
 ### Day 30: January 29, 2017 
 
 **Today's Progress**: My Wikipedia Viewer works fine, but needs some styling.
