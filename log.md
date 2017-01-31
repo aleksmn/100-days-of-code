@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 32: January 31, 2017 
+
+**Today's Progress**: Learning Visual Basic for Applications.
 
 ### Day 31: January 30, 2017 
 
