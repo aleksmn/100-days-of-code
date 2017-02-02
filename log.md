@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 33: February 2, 2017 
+
+**Today's Progress**: More VPA learning for me.
+
 ### Day 32: January 31, 2017 
 
 **Today's Progress**: Learning Visual Basic for Applications.
