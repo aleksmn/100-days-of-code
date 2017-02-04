@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 34: February 4, 2017 
+
+**Today's Progress**: Looping through a database and analyzing cells based on criteria
+
 ### Day 33: February 2, 2017 
 
 **Today's Progress**: More VPA learning for me.
