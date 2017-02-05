@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 35: February 5, 2017 
+
+**Today's Progress**: Learned how to create your custom Excel functions using VBA
+
+
 ### Day 34: February 4, 2017 
 
 **Today's Progress**: Learn VBA: looping through a database and analyzing cells based on criteria
