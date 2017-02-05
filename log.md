@@ -3,7 +3,7 @@
 
 ### Day 35: February 5, 2017 
 
-**Today's Progress**: Learned how to create your custom Excel functions using VBA
+**Today's Progress**: Learned how to create custom Excel functions using VBA
 
 
 ### Day 34: February 4, 2017 
