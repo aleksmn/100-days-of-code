@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 36: February 8, 2017 
+
+**Today's Progress**: Practiced macro creating with VBA 
+
 ### Day 35: February 5, 2017 
 
 **Today's Progress**: Learned how to create custom Excel functions using VBA
