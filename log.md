@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 ================================
 
+### Day 37: February 9, 2017 
+
+**Today's Progress**: Working with workbooks in VBA 
+
+
 ### Day 36: February 8, 2017 
 
 **Today's Progress**: Practiced macro creating with VBA 
