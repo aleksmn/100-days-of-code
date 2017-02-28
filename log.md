@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 ================================
 
+
+See my complete log on Twitter https://twitter.com/alexandrovphoto!
+
 ### Day 37: February 9, 2017 
 
 **Today's Progress**: Working with workbooks in VBA 
