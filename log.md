@@ -3,14 +3,23 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
+
+### Day 2: April 30, 2018 
+
+**Today's Progress**: Today`s challenge is checking for palindromes on #freecodecamp. Very interesting, considering all the different solutions.
+
+**Links to work:** 
+[Check for Palindromes](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/check_for_palindromes.js);
+
+
 ### Day 1: April 29, 2018 
-#### Hello everyone! Today I am publicly committing to the #100DaysOfCode. 
-#### I will start this project with JavaScript challenges on #freecodecamp.
+Hello everyone! Today I am publicly committing to the #100DaysOfCode. 
+I will start this project with JavaScript challenges on #freecodecamp.
 
 **Today's Progress**: Completed Reverse string and Factorialize challenges.
 
 **Links to work:** 
 [Reverse string](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/reverse_string.js);
 [Factorial](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/factorial.js)
-
 [My FreeCodeCamp account](https://www.freecodecamp.com/aleksmn)
+
