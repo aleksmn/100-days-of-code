@@ -4,6 +4,14 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 
+### Day 3: May 1, 2018 
+
+**Today's Progress**: Did "Find the Longest Word in a String" and "Title Case a Sentence" challenges on #freecodecamp. Good stuff!
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+
 ### Day 2: April 30, 2018 
 
 **Today's Progress**: Today`s challenge is checking for palindromes on #freecodecamp. Very interesting, considering all the different solutions.
