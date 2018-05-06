@@ -4,9 +4,49 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 
+### Day 8: May 6, 2018 
+
+**Today's Progress**: "Where do I belong" and "Caesar Cipher" challenges on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+
+### Day 7: May 5, 2018 
+
+**Today's Progress**: "Mutations", "Falsy Bouncer" and  "Seek and Destroy" challenges on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+
+### Day 6: May 4, 2018 
+
+**Today's Progress**: "Chunky Monkey" and "Slasher Flick" challenges on #freecodecamp #100DaysOfCode
+
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+
+### Day 5: May 3, 2018 
+
+**Today's Progress**: "Repeat a string" and " Truncate a string " challenges on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+### Day 4: May 2, 2018 
+
+**Today's Progress**: "Return Largest Numbers in Arrays" and "Confirm the Ending" challenges on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
+
+
 ### Day 3: May 1, 2018 
 
-**Today's Progress**: Did "Find the Longest Word in a String" and "Title Case a Sentence" challenges on #freecodecamp. Good stuff!
+**Today's Progress**: Did "Find the Longest Word in a String" and "Title Case a Sentence" challenges on #freecodecamp. Good stuff! #100DaysOfCode
 
 **Link to work:** 
 [My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Basic%20algorithms/)
