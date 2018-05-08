@@ -4,6 +4,23 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 
+### Day 10: May 8, 2018 
+
+**Today's Progress**: Random Quote Generator for #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/wgGreO?editors=0010
+
+
+**Link to work:** 
+[Random Quote Generator on CodePen](https://codepen.io/aleksmn/pen/wgGreO?editors=0010)
+
+
+### Day 9: May 7, 2018 
+
+**Today's Progress**: Learning "JSON APIs and Ajax" on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/JSON%20APIs%20and%20Ajax/)
+
+
 ### Day 8: May 6, 2018 
 
 **Today's Progress**: "Where do I belong" and "Caesar Cipher" challenges on #freecodecamp #100DaysOfCode
