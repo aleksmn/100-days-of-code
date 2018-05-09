@@ -4,6 +4,14 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 
+### Day 11: May 9, 2018 
+
+**Today's Progress**: Local Weather project #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/full/LxyyQa/
+
+**Link to work:** 
+[Local Weather project on CodePen](https://codepen.io/aleksmn/full/LxyyQa/)
+
+
 ### Day 10: May 8, 2018 
 
 **Today's Progress**: Random Quote Generator for #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/wgGreO?editors=0010
