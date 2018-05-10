@@ -3,6 +3,14 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
+### Day 12: May 10, 2018 
+
+**Today's Progress**: Wiki viewer project #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/ygPLqz?editors=0010
+
+**Link to work:** 
+[Wiki viewer project on CodePen](https://codepen.io/aleksmn/pen/ygPLqz?editors=0010)
+
+
 
 ### Day 11: May 9, 2018 
 
