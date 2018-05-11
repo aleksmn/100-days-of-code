@@ -6,10 +6,10 @@ See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 ### Day 13: May 11, 2018 
 
-**Today's Progress**: Working on my Twitch API project #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/oddjRx?editors=1100
+**Today's Progress**: Working on my Twitch API project #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/full/oddjRx/
 
 **Link to work:** 
-[Twitch API project on CodePen](https://codepen.io/aleksmn/pen/oddjRx?editors=1100)
+[Twitch API project on CodePen](https://codepen.io/aleksmn/full/oddjRx/)
 
 
 ### Day 12: May 10, 2018 
