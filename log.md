@@ -4,6 +4,53 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto!
 
 
+### Day 19: May 17, 2018 
+
+**Today's Progress**: "Missing letters" and "Boo who" (checkin for boolean) #freecodecamp intermediate algorithms. Also practice error handling in JS #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 18: May 16, 2018 
+
+**Today's Progress**: "DNA Pairing" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 17: May 15, 2018 
+
+**Today's Progress**: "Pig Latin" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 16: May 14, 2018 
+
+**Today's Progress**: "Wherefore art thou" and "Search and Replace" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 15: May 13, 2018 
+
+**Today's Progress**: "Diff Two Arrays" and "Roman Numeral Converter" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 14: May 12, 2018 
+
+**Today's Progress**: "Sum All Numbers in a Range" intermediate algorithm  #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
 ### Day 13: May 11, 2018 
 
 **Today's Progress**: Working on my Twitch API project #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/full/oddjRx/
