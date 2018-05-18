@@ -1,8 +1,15 @@
 # 100 Days Of Code - Log
 ================================
 
-See my complete log on Twitter https://twitter.com/alexandrovphoto!
+See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+
+### Day 20: May 18, 2018 
+
+**Today's Progress**: "Sorted Union" #freecodecamp intermediate algorithm. Also practice error handling in JS #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
 
 ### Day 19: May 17, 2018 
 
