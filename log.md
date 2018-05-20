@@ -4,6 +4,22 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 22: May 20, 2018 
+
+**Today's Progress**: "Sum All Odd Fibonacci Numbers" #freecodecamp intermediate algorithm #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 21: May 19, 2018 
+
+**Today's Progress**: "Convert HTML Entities" and "Spinal Tap Case" #freecodecamp intermediate algorithms. Also practice error handling in JS #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
 ### Day 20: May 18, 2018 
 
 **Today's Progress**: "Sorted Union" #freecodecamp intermediate algorithm. Also practice error handling in JS #100DaysOfCode
