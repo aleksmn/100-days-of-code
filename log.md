@@ -4,6 +4,14 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 23: May 21, 2018 
+
+**Today's Progress**: "Sum All Primes" #freecodecamp intermediate algorithm #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
 ### Day 22: May 20, 2018 
 
 **Today's Progress**: "Sum All Odd Fibonacci Numbers" #freecodecamp intermediate algorithm #100DaysOfCode
