@@ -4,6 +4,21 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 26: May 24, 2018 
+
+**Today's Progress**: "Everything Be True" and "Binary Agents" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
+### Day 24-25: May 22-23, 2018 
+
+**Today's Progress**: "Smallest Common Multiple", "Finders Keepers" and "Drop it" #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
 ### Day 23: May 21, 2018 
 
 **Today's Progress**: "Sum All Primes" #freecodecamp intermediate algorithm #100DaysOfCode
