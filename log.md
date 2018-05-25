@@ -4,6 +4,14 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 27: May 25, 2018 
+
+**Today's Progress**: Just made a "Game of Life" for terminal using JS #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
 ### Day 26: May 24, 2018 
 
 **Today's Progress**: "Everything Be True" and "Binary Agents" #freecodecamp intermediate algorithms #100DaysOfCode
