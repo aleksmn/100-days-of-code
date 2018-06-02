@@ -4,6 +4,63 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+
+### Day 34: June 2, 2018 
+
+**Today's Progress**: Working on "Applied Visual Design" on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 33: June 1, 2018 
+
+**Today's Progress**: Going through new front end items on #freecodecamp! Also finished "Cash Register" JS algorithm #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 32: May 30, 2018 
+
+**Today's Progress**: "Map the Debris" #freecodecamp advenced algorithm #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Advenced%20algorithms/)
+
+
+
+### Day 31: May 29, 2018 
+
+**Today's Progress**: "Inventory Update" and "Make a Person" #freecodecamp advenced algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Advenced%20algorithms/)
+
+
+### Day 30: May 28, 2018 
+
+**Today's Progress**: "Symmetric Difference" #freecodecamp advenced algorithm #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Advenced%20algorithms/)
+
+### Day 29: May 27, 2018 
+
+**Today's Progress**: "Validate US Telephone Numbers" and "Record Collection" #freecodecamp advenced algorithms done! #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Advenced%20algorithms/)
+
+
+### Day 28: May 26, 2018 
+
+**Today's Progress**: Finished #freecodecamp intermediate algorithms #100DaysOfCode
+
+**Link to work:** 
+[My JavaScript Challenges on GitHub](https://github.com/aleksmn/JavaScriptChallenges/blob/master/Intermediate%20algorithms/)
+
+
 ### Day 27: May 25, 2018 
 
 **Today's Progress**: Just made a "Game of Life" for terminal using JS #100DaysOfCode
