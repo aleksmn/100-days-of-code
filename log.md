@@ -4,6 +4,20 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 37: June 5, 2018 
+
+**Today's Progress**: Finished "Applied Accessibility" section on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 35-36: June 3-4, 2018 
+
+**Today's Progress**: Finished "Applied Visual Design" section on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
 
 ### Day 34: June 2, 2018 
 
