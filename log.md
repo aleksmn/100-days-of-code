@@ -4,6 +4,14 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 38-39: June 6-7, 2018 
+
+**Today's Progress**: "Responsive Web Design Principles" and "CSS Flexbox" sections on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
 ### Day 37: June 5, 2018 
 
 **Today's Progress**: Finished "Applied Accessibility" section on #freecodecamp #100DaysOfCode
