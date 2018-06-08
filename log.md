@@ -3,6 +3,12 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 40: June 8, 2018 
+
+**Today's Progress**: "CSS Grid" on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
 
 ### Day 38-39: June 6-7, 2018 
 
