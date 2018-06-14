@@ -3,6 +3,30 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 43: June 14, 2018 
+
+**Today's Progress**: Working on design for my Survey Form #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 42: June 11, 2018 
+
+**Today's Progress**: Finished "ES6" section on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 41: June 10, 2018 
+
+**Today's Progress**: Working on "ES6" section on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
 ### Day 40: June 8, 2018 
 
 **Today's Progress**: "CSS Grid" on #freecodecamp #100DaysOfCode
