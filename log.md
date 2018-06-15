@@ -3,6 +3,13 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 44: June 15, 2018 
+
+**Today's Progress**: Finished my Survey Form, practiced work with SVG during this project  #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
 ### Day 43: June 14, 2018 
 
 **Today's Progress**: Working on design for my Survey Form #freecodecamp #100DaysOfCode
