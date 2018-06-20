@@ -3,6 +3,29 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+
+### Day 47: June 20, 2018 
+
+**Today's Progress**: Working on Product Landing Page project #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 46: June 17, 2018 
+
+**Today's Progress**: Technical Documentation page project #freecodecamp #100DaysOfCode
+https://codepen.io/aleksmn/pen/KeXjOo?editors=0100
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+### Day 45: June 16, 2018 
+
+**Today's Progress**: Working on portfolio project #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
 ### Day 44: June 15, 2018 
 
 **Today's Progress**: Finished my Survey Form, practiced work with SVG during this project  #freecodecamp #100DaysOfCode
