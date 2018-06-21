@@ -4,6 +4,16 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+
+
+### Day 48: June 21, 2018 
+
+**Today's Progress**: Made Product Landing Page project!  It passes the formal tests but still needs some improvements  #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/mKqQpN?editors=1100
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
 ### Day 47: June 20, 2018 
 
 **Today's Progress**: Working on Product Landing Page project #freecodecamp #100DaysOfCode
