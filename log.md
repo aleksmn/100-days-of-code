@@ -6,6 +6,29 @@ See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
 
+### Day 51: June 27, 2018 
+
+**Today's Progress**: Working on my educational web-app using #PHP #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+### Day 50: June 25, 2018 
+
+**Today's Progress**: Decided to take a brake from the #freecodecamp and work on my #PHP skills  #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 49: June 23, 2018 
+
+**Today's Progress**: Worked on my responsive web design projects #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
 ### Day 48: June 21, 2018 
 
 **Today's Progress**: Made Product Landing Page project!  It passes the formal tests but still needs some improvements  #freecodecamp #100DaysOfCode https://codepen.io/aleksmn/pen/mKqQpN?editors=1100
