@@ -3,7 +3,19 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 53: June 28, 2018 
 
+**Today's Progress**: Worked on login system for my project #PHP #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+### Day 52: June 28, 2018 
+
+**Today's Progress**: Worked on design for my project using #Inkscape #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
 
 
 ### Day 51: June 27, 2018 
