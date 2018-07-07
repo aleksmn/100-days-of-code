@@ -3,7 +3,37 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
-### Day 53: June 28, 2018 
+### Day 58-59: July 6-7, 2018 
+
+**Today's Progress**: Working on CRUD functionality #PHP #MySQL #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+### Day 57: July 5, 2018 
+
+**Today's Progress**: Working on uploading images to the server using #PHP #MySQL #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
+### Day 56: July 4, 2018 
+
+**Today's Progress**: Worked on #MySQL queries using #PHP #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
+### Day 54-55: July 2-3, 2018 
+
+**Today's Progress**: Worked on #MySQL database for my project #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+### Day 53: June 30, 2018 
 
 **Today's Progress**: Worked on login system for my project #PHP #100DaysOfCode
 
