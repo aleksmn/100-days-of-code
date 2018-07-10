@@ -3,6 +3,15 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+
+### Day 60-61: July 8-9, 2018 
+
+**Today's Progress**: Working on styling for my project #CSS #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
 ### Day 58-59: July 6-7, 2018 
 
 **Today's Progress**: Working on CRUD functionality #PHP #MySQL #100DaysOfCode
