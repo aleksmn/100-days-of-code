@@ -3,6 +3,29 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 65: July 14, 2018 
+
+**Today's Progress**: Work on my educational web-app #PHP #MySQL #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
+### Day 63-64: July 12-13, 2018 
+
+**Today's Progress**: Made a good progress on the back-end side for my educational web-app #PHP #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
+### Day 62: July 11, 2018 
+
+**Today's Progress**: Did some frontend work #CSS #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
 
 ### Day 60-61: July 8-9, 2018 
 
