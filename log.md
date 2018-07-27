@@ -3,6 +3,63 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+
+### Day 73: July 27, 2018 
+
+**Today's Progress**: Made some counters using React! #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 72: July 25, 2018 
+
+**Today's Progress**: More React challenges for me! #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 70-71: July 23-24, 2018 
+
+**Today's Progress**: Working on React challenges. For now it`s the most difficult to understand FCC challenges, but i`m not stopping! #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 69: July 22, 2018 
+
+**Today's Progress**: Started to work on React challenges #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 68: July 21, 2018 
+
+**Today's Progress**: Working on SASS workflow using Gulp #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 67: July 20, 2018 
+
+**Today's Progress**: Finished SASS Challenges on #freecodecamp #100DaysOfCode
+
+**Link to work:** 
+[My FreeCodeCamp page](https://www.freecodecamp.org/portfolio/aleksmn)
+
+
+### Day 66: July 14, 2018 
+
+**Today's Progress**: Work on functionality of my project #PHP #MySQL #100DaysOfCode
+
+**Link to work:** 
+[Eco-educational web-app](https://github.com/aleksmn/eco-education)
+
+
 ### Day 65: July 14, 2018 
 
 **Today's Progress**: Work on my educational web-app #PHP #MySQL #100DaysOfCode
