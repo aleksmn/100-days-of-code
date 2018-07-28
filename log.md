@@ -4,6 +4,12 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 74: July 28, 2018 
+
+**Today's Progress**: Work on controlled forms using REACT! #freecodecamp #100DaysOfCode
+
+
+
 ### Day 73: July 27, 2018 
 
 **Today's Progress**: Made some counters using React! #freecodecamp #100DaysOfCode
