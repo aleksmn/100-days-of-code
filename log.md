@@ -4,6 +4,16 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 77: July 31, 2018 
+
+**Today's Progress**: Practice lifecycle methods and managing updates using React! #freecodecamp #100DaysOfCode
+
+
+### Day 75-76: July 29-30, 2018 
+
+**Today's Progress**: Working on REACT challenges! #freecodecamp #100DaysOfCode
+
+
 ### Day 74: July 28, 2018 
 
 **Today's Progress**: Work on controlled forms using REACT! #freecodecamp #100DaysOfCode
