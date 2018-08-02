@@ -4,6 +4,16 @@
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
 
+### Day 79: Aug 2, 2018 
+
+**Today's Progress**: Finished React challanges today! #freecodecamp #100DaysOfCode
+
+
+### Day 78: Aug 1, 2018 
+
+**Today's Progress**: Worked on conditional rendering using React! #freecodecamp #100DaysOfCode
+
+
 ### Day 77: July 31, 2018 
 
 **Today's Progress**: Practice lifecycle methods and managing updates using React! #freecodecamp #100DaysOfCode
