@@ -4,6 +4,10 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+### Day 82: Aug 6, 2018
+
+**Today's Progress**: Finished my shopping cart app using #React #freecodecamp #100DaysOfCode
+
 ### Day 80-81: Aug 4-5, 2018
 
 **Today's Progress**: Parcticing to build a real world application using React #freecodecamp #100DaysOfCode
