@@ -4,6 +4,21 @@
 
 See my complete log on Twitter https://twitter.com/alexandrovphoto
 
+Practicing to create an application using React with Redux
+
+### Days 90: Aug 14, 2018
+
+**Today's Progress**: Practicing to create an application using React with Redux #freecodecamp #100DaysOfCode
+
+### Days 89: Aug 13, 2018
+
+**Today's Progress**: Still working on Redux challenges... #freecodecamp #100DaysOfCode
+
+### Days 88: Aug 12, 2018
+
+**Today's Progress**: Started Redux challenges on #freecodecamp #100DaysOfCode
+
+
 ### Days 85,86,87: Aug 9, 10, 11, 2018
 
 **Today's Progress**: Oops, totally forgot to tweet) Making my #React application and working on HTML/CSS template for my project #freecodecamp #100DaysOfCode
